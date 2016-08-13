@@ -1,0 +1,14 @@
+{
+  "name": "scrip_war",
+  "version": "1.0.0",
+  "description": "A war of JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Yusuf Daniju",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.1.0"
+  }
+}
